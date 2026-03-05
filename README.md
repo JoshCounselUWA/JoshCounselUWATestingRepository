@@ -6,3 +6,5 @@ I am going to merge this now
 I am adding this line aswell
 
 I am adding more lines
+
+This is another line
